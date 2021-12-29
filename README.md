@@ -1,4 +1,4 @@
-# When-Policy-Surprises-Spain
+# Monetary surprises (based on Altavilla et al 2019 JME)
 Javier Ramos Pérez, 
 Madrid, May 2021. 
 This repository contains code to replicate the Final Paper from Econometrics II Msc in Economics UC3M. 
